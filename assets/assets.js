@@ -56,7 +56,7 @@ export const dummyStoreData = {
     user: {
         id: "user_31dOriXqC4TATvc0brIhlYbwwc5",
         name: "Great Stack",
-        email: "user.greatstack@gmail.com",
+        email: "user.ClickMart@gmail.com",
         image: gs_logo,
     }
 }
@@ -274,8 +274,8 @@ export const couponDummyData = [
 
 export const dummyUserData = {
     id: "user_31dQbH27HVtovbs13X2cmqefddM",
-    name: "GreatStack",
-    email: "greatstack@example.com",
+    name: "ClickMart",
+    email: "ClickMart@example.com",
     image: gs_logo,
     cart: {}
 }
@@ -328,14 +328,14 @@ export const storesDummyData = [
     {
         id: "cmemkb98v0001tat8r1hiyxhn",
         userId: "user_31dOriXqC4TATvc0brIhlYbwwc5",
-        name: "GreatStack",
-        description: "GreatStack is the education marketplace where you can buy goodies related to coding and tech",
-        username: "greatstack",
+        name: "ClickMart",
+        description: "ClickMart is the education marketplace where you can buy goodies related to coding and tech",
+        username: "ClickMart",
         address: "123 Maplewood Drive Springfield, IL 62704 USA",
         status: "approved",
         isActive: true,
         logo: gs_logo,
-        email: "greatstack@example.com",
+        email: "ClickMart@example.com",
         contact: "+0 1234567890",
         createdAt: "2025-08-22T08:22:16.189Z",
         updatedAt: "2025-08-22T08:22:44.273Z",
